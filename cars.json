@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Mitsubishi Mirage",
+    "price": 14.645,
+    "available": "no"
+  },
+  {
+    "name": "Kia Rio",
+    "price": 16.45,
+    "available": "no"
+  },
+  {
+    "name": "Hyundai Accent",
+    "price": 16.645,
+    "available": "no"
+  },
+  {
+    "name": "Kia Forte",
+    "price": 19.09,
+    "available": "no"
+  },
+  {
+    "name": "Subaru Impreza",
+    "price": 19.295,
+    "available": "no"
+  },
+  {
+    "name": "Nissan Sentra",
+    "price": 19.81,
+    "available": "yes"
+  },
+  {
+    "name": "Chevrolet Spark",
+    "price": 13.6,
+    "available": "yes"
+  },
+  {
+    "name": "Nissan Versa",
+    "price": 15.38,
+    "available": "yes"
+  },
+  {
+    "name": "Hyundai Venue",
+    "price": 19,
+    "available": "yes"
+  },
+  {
+    "name": "Kia Soul",
+    "price": 19.29,
+    "available": "yes"
+  }
+]
